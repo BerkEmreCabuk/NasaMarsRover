@@ -1,0 +1,11 @@
+C:\projeler\NasaMarsRover\NasaMarsRover.App\bin\Debug\netcoreapp3.0\NasaMarsRover.App.exe
+C:\projeler\NasaMarsRover\NasaMarsRover.App\bin\Debug\netcoreapp3.0\NasaMarsRover.App.deps.json
+C:\projeler\NasaMarsRover\NasaMarsRover.App\bin\Debug\netcoreapp3.0\NasaMarsRover.App.runtimeconfig.json
+C:\projeler\NasaMarsRover\NasaMarsRover.App\bin\Debug\netcoreapp3.0\NasaMarsRover.App.runtimeconfig.dev.json
+C:\projeler\NasaMarsRover\NasaMarsRover.App\bin\Debug\netcoreapp3.0\NasaMarsRover.App.dll
+C:\projeler\NasaMarsRover\NasaMarsRover.App\bin\Debug\netcoreapp3.0\NasaMarsRover.App.pdb
+C:\projeler\NasaMarsRover\NasaMarsRover.App\obj\Debug\netcoreapp3.0\NasaMarsRover.App.csprojAssemblyReference.cache
+C:\projeler\NasaMarsRover\NasaMarsRover.App\obj\Debug\netcoreapp3.0\NasaMarsRover.App.AssemblyInfoInputs.cache
+C:\projeler\NasaMarsRover\NasaMarsRover.App\obj\Debug\netcoreapp3.0\NasaMarsRover.App.AssemblyInfo.cs
+C:\projeler\NasaMarsRover\NasaMarsRover.App\obj\Debug\netcoreapp3.0\NasaMarsRover.App.dll
+C:\projeler\NasaMarsRover\NasaMarsRover.App\obj\Debug\netcoreapp3.0\NasaMarsRover.App.pdb
